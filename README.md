@@ -1,11 +1,9 @@
-COURSE PROJECT | Speech Based Contact Search | Nov 2019
+COURSE PROJECT | Speech Based Contact Search | Sep 2019 - Nov 2019
 
 Dr Pradip K. Das, Professor, Dept. of CSE, IIT Guwahati
 
-Implemented a speech-recognition system from scratch based on HMM (Hidden Markov Model) which takes voice input and outputs the contact details of the spoken contact name.
-
-Used Durbin's algorithm, Viterbi algorithm and LBG algorithm for codebook generation.
-
+Implemented a real-time speech-recognition system from scratch using HMM (Hidden Markov Model) which takes voice input and outputs the contact details of the spoken contact name. 
+The system provides a Live training module which can also be used by new users. Used Durbin's algorithm, Viterbi algorithm, and LBG algorithm for codebook generation. 
 
 The project is about voice based search of the contact names and details in the list. The main idea of the project is to take an input in the form of speech and outputs the name spoken onto the screen. We have used various concepts like cepstral coefficients, Durbin’s algorithm, Viterbi algorithm, LBG algorithm, HMM procedures, etc. There are 15 words in our list that makes total of 15 models.
 
